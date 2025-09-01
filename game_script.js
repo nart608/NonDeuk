@@ -1,12 +1,12 @@
 document.addEventListener('DOMContentLoaded', () => {
     // ---*** ใส่รูปภาพ 6 รูปของคุณตรงนี้ (เกมต้องการ 6 คู่ = 12 ช่อง) ***---
     const images = [
-        '1.jpg',
-        '2.jpg',
-        '3.jpg',
-        '4.jpg',
-        '5.jpg',
-        '6.jpg'
+        '.jpg',
+        '.jpg',
+        '.jpg',
+        '.jpg',
+        '.jpg',
+        '.jpg'
     ];
 
     const gameBoard = document.querySelector('.game-board');
